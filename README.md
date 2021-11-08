@@ -1,4 +1,4 @@
-# What is this?
+.# What is this?
 
 Press the `.` key on any repository or pull request, or swap `.com` with `.dev` in the URL, to go directly to a VS Code environment in your browser.
 
